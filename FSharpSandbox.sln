@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "HelloWorld\HelloWorld.fsproj", "{6B0E0D02-3D9D-480F-9DA3-CD922707D796}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "HelloWorld", "HelloWorld\HelloWorld.fsproj", "{6B0E0D02-3D9D-480F-9DA3-CD922707D796}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.fsproj", "{A600413C-FF04-4081-96E0-F9CB95DBF330}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.fsproj", "{A600413C-FF04-4081-96E0-F9CB95DBF330}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sorting", "Sorting\Sorting.fsproj", "{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A600413C-FF04-4081-96E0-F9CB95DBF330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A600413C-FF04-4081-96E0-F9CB95DBF330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A600413C-FF04-4081-96E0-F9CB95DBF330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
