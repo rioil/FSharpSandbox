@@ -7,9 +7,11 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.fsproj", "{A600413C-FF04-4081-96E0-F9CB95DBF330}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sorting", "Sorting\Sorting.fsproj", "{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Sorting", "Sorting\Sorting.fsproj", "{21965C33-CD43-4D8A-8B63-BC824AAB3ED9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DownloadWebPage", "DownloadWebPage\DownloadWebPage.fsproj", "{3D2F21CB-CBDA-4F9C-A6DE-168A568F7DD3}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DownloadWebPage", "DownloadWebPage\DownloadWebPage.fsproj", "{3D2F21CB-CBDA-4F9C-A6DE-168A568F7DD3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AvaloniaFuncUIBasic", "AvaloniaFuncUIBasic\AvaloniaFuncUIBasic.fsproj", "{CA4910A3-11E4-4DE2-8638-619398589047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3D2F21CB-CBDA-4F9C-A6DE-168A568F7DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D2F21CB-CBDA-4F9C-A6DE-168A568F7DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D2F21CB-CBDA-4F9C-A6DE-168A568F7DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4910A3-11E4-4DE2-8638-619398589047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4910A3-11E4-4DE2-8638-619398589047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4910A3-11E4-4DE2-8638-619398589047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4910A3-11E4-4DE2-8638-619398589047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
